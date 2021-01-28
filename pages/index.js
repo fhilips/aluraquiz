@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import db from '../db.json';
 import Widget from '../src/components/Widget/index.js';
-import QuizBackground from '../src/components/QuizBackground/index.js';
+import QuizBackground from '../src/components/QuizBackGround/index.js';
 import Footer from '../src/components/Footer/index.js';
 import GitHubCorner from '../src/components/GitHubCorner/index.js';
 
